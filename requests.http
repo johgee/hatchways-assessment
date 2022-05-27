@@ -1,2 +1,5 @@
 ### Get Posts
-GET http://localhost:3000/posts.json
+GET http://localhost:3000/api/posts
+
+### Get Ping
+GET http://localhost:3000/api/ping
